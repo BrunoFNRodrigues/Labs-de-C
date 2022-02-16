@@ -1,0 +1,5 @@
+Digite um número: Digite um número: Não!
+Digite um número: Digite um número: Multiplo!
+Digite um número: Digite um número: Multiplo!
+Digite um número: Digite um número: Multiplo!
+Digite um número: Digite um número: Erro
