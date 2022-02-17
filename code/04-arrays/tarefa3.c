@@ -7,7 +7,17 @@
 #include <stdio.h>
 
 /* TODO: implemente sua função conta_a aqui */
-
+int conta_a(char str[100]){
+    int i = 0;
+    int total = 0;
+    while (str[i] != '\0'){
+        if (str[i] == 'a'){
+            ++total;
+        }
+        ++i;
+    }
+    return total;
+}
 
 int main() {
     
