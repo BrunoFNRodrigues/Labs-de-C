@@ -1,0 +1,8 @@
+digite um número: 
+Adicione um número ao array: 
+Adicione um número ao array: 
+Adicione um número ao array: 
+Adicione um número ao array: 
+Adicione um número ao array: 
+Soma: 7.900000
+Variância: 3.037600
