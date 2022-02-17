@@ -13,6 +13,13 @@ typedef struct {
 
 // TODO: declare função manhattan aqui. Veja abaixo como ela será usada
 
+int manhattan(ponto p1, ponto p2){
+    int deltax = abs(p1.x- p2.x);
+    int deltay = abs(p1.y- p2.y);
+    int soma = deltax + deltay;
+    return soma;
+}
+
 int main() {
     
     // assertEquals é uma função do mutirão que confere
